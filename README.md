@@ -39,3 +39,5 @@ The following methods take optional extra arguments for convenience. As per the 
     
     newton.area('2:4|x^3') # -> 60
     newton.area('x^3', start=2, end=4) # -> 60
+
+See [the newton API GitHub repo](https://github.com/aunyks/newton-api) for the full list of endpoints.
