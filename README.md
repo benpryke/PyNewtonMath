@@ -14,7 +14,7 @@ Using pip:
 
     pip install pynewtonmath
 
-From github:
+From GitHub:
 
     pip install git+https://github.com/benpryke/pynewtonmath
 
