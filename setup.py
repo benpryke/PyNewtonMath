@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pynewtonmath',
-      version='1.0',
+      version='1.0.1',
       description='Python 3 wrapper for the Newton math API',
       url='https://github.com/benpryke/PyNewtonMath',
       author='Benjamin Pryke',
