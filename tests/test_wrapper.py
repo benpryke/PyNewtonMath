@@ -2,7 +2,7 @@ import os
 import sys
 import unittest
 
-sys.path.insert(0, os.path.dirname(os.getcwd()))
+sys.path.insert(0, os.getcwd())
 
 from pynewtonmath import core, wrapper
 
