@@ -3,6 +3,8 @@ PyNewtonMath
 
 .. image:: https://img.shields.io/pypi/v/pynewtonmath.svg
    :target: https://pypi.python.org/pypi/pynewtonmath
+.. image:: https://travis-ci.org/benpryke/PyNewtonMath.svg?branch=master
+   :target: https://travis-ci.org/benpryke/PyNewtonMath
 
 Basics
 ------
