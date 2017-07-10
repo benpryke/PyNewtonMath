@@ -1,0 +1,7 @@
+language: python
+sudo: false
+
+python:
+  - "3"
+
+script: python tests/test_wrapper.py
