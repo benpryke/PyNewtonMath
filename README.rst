@@ -1,7 +1,8 @@
 PyNewtonMath
 ============
 
-.. image:: https://img.shields.io/pypi/v/pynewtonmath.svg   :target: https://pypi.python.org/pypi/pynewtonmath
+.. image:: https://img.shields.io/pypi/v/pynewtonmath.svg
+   :target: https://pypi.python.org/pypi/pynewtonmath
 
 Basics
 ------
